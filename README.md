@@ -42,3 +42,6 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Link Penjelasan Fitur Tambahan
+https://www.loom.com/share/8a1c37eb3fbd48c5a1f859dc93c6292d
